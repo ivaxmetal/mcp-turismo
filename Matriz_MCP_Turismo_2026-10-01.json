@@ -1,0 +1,52 @@
+[
+  {
+    "empresa_info": {
+      "id": "ec-empresa-001",
+      "nombre": "Allpa Kawsay Tours ",
+      "tipo_servicio": [
+        "Alojamiento / Hospedaje",
+        " Tours / Operadora / Guianza",
+        " Gastronomía / Restaurante",
+        " Aventura / Actividades al aire libre"
+      ],
+      "ubicacion": {
+        "detalle_politico": "Pichincha, San Miguel de los Bancos, Mindo ",
+        "google_maps": "https://www.google.com/maps?rlz=1C1ALOY_esEC941EC941&um=1&ie=UTF-8&fb=1&gl=ec&sa=X&geocode=KaGAK2MAfdWRMSpVa6vLMwGg&daddr=Mindo",
+        "indicaciones_acceso": "Pueden acceder en Bus Publico, transporte propío e incluso en nuestros tours que vienen de diferentes lugares del Ecuador. \n"
+      }
+    },
+    "perfil_e_intencion": {
+      "cliente_ideal": [
+        "Parejas / Escapadas románticas",
+        " Familias con niños",
+        " Nómadas digitales / Teletrabajadores",
+        " Observadores de aves / BIRDERS",
+        " Aventureros / Mochileros",
+        " Seniors / Adultos mayores",
+        " Grupos de amigos"
+      ],
+      "propuesta_valor": "Manejamos un turismo personalizado, lo que hace que a nuestros clientes eviten la espera en otros grupos y puedan disfrutar de su viaje con confianza. "
+    },
+    "sostenibilidad_y_entorno": {
+      "practicas_ambientales": [
+        "Gestión/Reciclaje de residuos orgánicos e inorgánicos",
+        " Ingredientes de producción orgánica o local",
+        " Senderos o áreas de conservación propia"
+      ],
+      "impacto_social": "El personal es 100% local, todos nuestros productos y servicios los realizamos con la gente de Mindo. \nTrabajamos con Guias locales y de experiencia de mas de +30 en territorio. \nInsentivamos a jovenes a realizar y mantener a mindo limpio y trabajar con un modelo de turismo sostenible. ",
+      "capacidad_carga_maxima": "Aproximadamente 500 por dia."
+    },
+    "infraestructura_y_politicas": {
+      "wifi": "Alta velocidad (Fibra óptica, apto para videollamadas)",
+      "accesibilidad_fisica": "Apto para personas con movilidad reducida / Silla de ruedas",
+      "pet_friendly": "Sí, aceptamos mascotas sin costo",
+      "restricciones_adicionales": "Dependiende el servicio que adquieran "
+    },
+    "comercial_y_reservas": {
+      "detalle_oferta_tarifas": "Paquetes Turisticos desde $20 por persona Full Day\nActividades recreativas desde $5 por persona adulta \nAlojamiento desde $15 por persona \nAlimentacion\nTransporte a nivel nacional: Camionetas, SUV, Buses, Bucetas. ",
+      "horarios": "Dependiendo el establecimiento",
+      "canal_reserva_directa": "https://api.whatsapp.com/send/?phone=593988838452&text&type=phone_number&app_absent=0",
+      "politica_cancelacion": "Reservas parcialmente pagadas o reagendamiento. "
+    }
+  }
+]
